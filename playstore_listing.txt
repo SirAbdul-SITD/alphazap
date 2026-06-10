@@ -1,0 +1,110 @@
+# ALPHAZAP — GOOGLE PLAY STORE LISTING
+# Bundle ID: com.alphazap.words
+# ═══════════════════════════════════════
+
+APP TITLE (50 chars max)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AlphaZap: Word Scramble Puzzle Game
+
+SHORT DESCRIPTION (80 chars max)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Zap scrambled letters into words! 3,000+ words across 21 electric categories.
+
+LONG DESCRIPTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔡 AlphaZap — Zap Letters Into Words!
+
+AlphaZap is the word unscramble game with electric energy. Dark background, neon tiles, and three addictive modes. Your vocabulary vs the clock — who wins?
+
+🎮 THREE ZAP MODES
+🧩 Classic Zap — Pick a category, unscramble 100 words per session. Fresh shuffle every time.
+⛓ Chain Zap — Each answer's last letter starts the next word. Break the chain, lose a life.
+⚡ Blitz Zap — 60 seconds. As many words as possible. Build combos, freeze time, chase records.
+
+✅ FEATURES
+• 3,000+ words · 21 categories
+• Electric neon-on-black theme
+• Blast tiles for instant 2x score
+• Streak combos with zap multipliers
+• Hint & Shuffle power-ups
+• 100% offline · No ads · Free
+
+📚 21 CATEGORIES
+Animals · Food · Sports · Science · Countries · Nature · Technology · Emotions
+Music · Travel · Movies · Mythology · Space · History · Cooking · Fashion
+Art · Body · Weather · Equipment · Professions
+
+Download AlphaZap and electrify your vocabulary! 🔡
+
+CATEGORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Games > Word
+
+CONTENT RATING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Everyone (E) — IARC: 3+ / Everyone
+No violence · No mature content · No in-app purchases
+
+TAGS / KEYWORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+word game, anagram, word scramble, word puzzle, brain training, vocabulary,
+spelling game, letter puzzle, offline game, free word game, family game,
+word challenge, educational game, crossword, wordle, scrabble alternative
+
+PRICING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Free · No in-app purchases · No ads · No subscriptions
+
+CONTACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Email:       support@alphazap.app
+Website:     https://alphazap.app
+Privacy URL: https://alphazap.app/privacy
+
+WHAT'S NEW — Version 1.0
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎉 Welcome to AlphaZap v1.0!
+
+• 3 game modes: Classic, Chain & Blitz
+• 3,000+ words across 21 categories
+• Blast tiles, streak combos & coin rewards
+• Hint & Shuffle power-ups
+• Background music & sound effects
+• Fully offline — no internet required
+• Zero ads — 100% free forever
+
+Enjoying the game? Leave a review! ⭐⭐⭐⭐⭐
+
+DATA SAFETY (Google Play)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Data collected:       None
+Data shared:          None
+Data encrypted:       N/A (no data collected)
+User deletion option: N/A (no data collected)
+Families Policy:      YES — safe for all ages
+
+PERMISSIONS DECLARED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTERNET — Flutter SDK requirement; not used for data transmission
+VIBRATE  — Haptic feedback on correct/wrong answers
+
+GRAPHIC ASSETS CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ icon.png           — 512×512px (in assets/images/)
+✅ feature_image.png  — 1024×500px (in assets/images/)
+✅ privacy_policy.html — host and paste the URL into Play Console
+☐  Screenshots        — Capture min 2 from your device
+   Suggested screens:
+   1. Home/Menu screen
+   2. Classic gameplay mid-word
+   3. Chain mode with connector visible
+   4. Blitz with timer showing
+   5. Level complete / stars screen
+
+BUNDLE DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Package:    com.alphazap.words
+App Name:   AlphaZap
+Version:    1.0.0 (code 1)
+Min SDK:    21 (Android 5.0 Lollipop)
+Target SDK: 34 (Android 14)
