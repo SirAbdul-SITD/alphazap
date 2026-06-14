@@ -104,18 +104,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     const SizedBox(height: 24),
                     // Version
                     Text(
-                      'AnagramBlast v1.0.0',
+                      'AlphaZap v1.0.0',
                       style: TextStyle(
                         fontFamily: 'Nunito',
                         fontSize: 13,
-                        color: AppTheme.textLight,
-                      ),
-                    ),
-                    Text(
-                      'com.kadesh.anagramblast',
-                      style: TextStyle(
-                        fontFamily: 'Nunito',
-                        fontSize: 12,
                         color: AppTheme.textLight,
                       ),
                     ),

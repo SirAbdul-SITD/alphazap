@@ -54,8 +54,8 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
         const SizedBox(height: 28),
         FadeTransition(opacity: _textFade, child: Column(children: [
           RichText(text: TextSpan(style: const TextStyle(fontFamily:'Nunito',fontSize:46,fontWeight:FontWeight.w800), children: [
-            TextSpan(text: 'Scra', style: const TextStyle(color: Color(0xFFFF4D94))),
-            TextSpan(text: 'mblox', style: const TextStyle(color: Color(0xFFFFD60A))),
+            TextSpan(text: 'Alpha', style: const TextStyle(color: Color(0xFFFF4D94))),
+            TextSpan(text: 'Zap', style: const TextStyle(color: Color(0xFFFFD60A))),
           ])),
           const SizedBox(height: 8),
           Text('Block by Block. Word by Word.', style: const TextStyle(fontFamily:'Nunito',fontSize:15,color:AppTheme.textMedium,fontWeight:FontWeight.w600)),

@@ -1,5 +1,5 @@
 # ALPHAZAP — GOOGLE PLAY STORE LISTING
-# Bundle ID: com.alphazap.words
+# Bundle ID: com.lushdevs.alphazap
 # ═══════════════════════════════════════
 
 APP TITLE (50 chars max)

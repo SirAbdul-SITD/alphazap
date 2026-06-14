@@ -31,6 +31,7 @@ class _DailyChallengeScreenState extends State<DailyChallengeScreen> {
     _todayCategory = cats[dayOfYear % cats.length];
     final words = WordBank.getWordsForLevel(_todayCategory, (dayOfYear % 10) + 1);
     _todayWord = words[dayOfYear % words.length];
+    // ignore: unused_local_variable
     final key = 'daily_${now.year}_${now.month}_${now.day}';
     _alreadyPlayed = StorageService.getLevelProgress(_todayCategory, 99).isUnlocked;
   }

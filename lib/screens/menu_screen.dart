@@ -52,8 +52,8 @@ class _MenuScreenState extends State<MenuScreen> with TickerProviderStateMixin {
                   child:const Center(child:Text('🟧',style:TextStyle(fontSize:62)))),
                 const SizedBox(height:18),
                 RichText(textAlign:TextAlign.center, text:TextSpan(style:const TextStyle(fontFamily:'Nunito',fontSize:42,fontWeight:FontWeight.w800,height:1.1), children:[
-                  TextSpan(text:'Scra',style:const TextStyle(color:Color(0xFFFF4D94))),
-                  TextSpan(text:'mblox',style:const TextStyle(color:Color(0xFFFFD60A))),
+                  TextSpan(text:'Alpha',style:const TextStyle(color:Color(0xFFFF4D94))),
+                  TextSpan(text:'Zap',style:const TextStyle(color:Color(0xFFFFD60A))),
                 ])),
                 const SizedBox(height:6),
                 Text('Stack words · 3,000+ words · 21 categories',textAlign:TextAlign.center,style:const TextStyle(fontFamily:'Nunito',fontSize:13,color:AppTheme.textMedium,fontWeight:FontWeight.w600)),

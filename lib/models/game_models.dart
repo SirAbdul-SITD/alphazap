@@ -1,6 +1,5 @@
 // lib/models/game_models.dart
 import 'package:flutter/material.dart';
-import '../theme/app_theme.dart';
 
 enum GameMode { classic, chain, blitz }
 
